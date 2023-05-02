@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElegantWebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/ElegantWebsite/static/js/main.401b1d4d.js",
+    "static/js/787.26cf0ef2.chunk.js": "/ElegantWebsite/static/js/787.26cf0ef2.chunk.js",
+    "index.html": "/ElegantWebsite/index.html",
+    "main.e6c13ad2.css.map": "/ElegantWebsite/static/css/main.e6c13ad2.css.map",
+    "main.401b1d4d.js.map": "/ElegantWebsite/static/js/main.401b1d4d.js.map",
+    "787.26cf0ef2.chunk.js.map": "/ElegantWebsite/static/js/787.26cf0ef2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.401b1d4d.js"
+  ]
+}
