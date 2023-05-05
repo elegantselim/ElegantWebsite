@@ -1,4 +1,4 @@
-npx create-react-appcd elegantwebsite
+npx create-react-app elegantwebsite
 cd elegantwebsite
 git init 
 git remote add origin https://github.com/elegantselim/ElegantWebsite.git
